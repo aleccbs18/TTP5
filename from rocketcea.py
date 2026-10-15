@@ -82,7 +82,7 @@ def main():
    o_f_array = create_o_f_array(o_f_end, iteration)
    print (o_f_array)
 
-#hi gus 
+#hi gus!
 
 if __name__ == "__main__":
     main()
